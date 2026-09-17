@@ -26,3 +26,6 @@ node_modules/
 
 # logs
 *.log
+
+# third-party repos already backed by their own upstream git history
+projects/Archon/
