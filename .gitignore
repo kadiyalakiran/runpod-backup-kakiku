@@ -1,0 +1,28 @@
+# caches
+.cache/
+__pycache__/
+*.pyc
+
+# envs
+.venv/
+venv/
+env/
+node_modules/
+
+# large model / data artifacts (unignore specific ones if you want them tracked)
+*.ckpt
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.gguf
+*.h5
+*.npy
+*.npz
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# logs
+*.log
