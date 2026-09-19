@@ -5,3 +5,4 @@ bitsandbytes
 jupyter
 openai
 hf_transfer
+archon-ai
