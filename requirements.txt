@@ -6,3 +6,4 @@ jupyter
 openai
 hf_transfer
 archon-ai
+vllm
