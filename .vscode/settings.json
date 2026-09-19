@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "/workspace/.venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "files.watcherExclude": {
+    "**/.cache/**": true,
+    "**/.venv/**": true
+  }
+}
