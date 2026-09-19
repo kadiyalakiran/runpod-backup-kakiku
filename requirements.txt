@@ -7,3 +7,4 @@ openai
 hf_transfer
 archon-ai
 vllm
+vllm-bnb-plugin
